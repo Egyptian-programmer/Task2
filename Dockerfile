@@ -1,4 +1,4 @@
 from openjdk 
-copy MohamedSalah.java /
-run javac MohamedSalah.java
-cmd java MohamedSalah
+copy MahmoudAbdelrazek.java /
+run javac MahmoudAbdelrazek.java
+cmd java MahmoudAbdelrazek
